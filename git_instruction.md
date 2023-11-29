@@ -60,3 +60,4 @@ git status
 Ознакомиться с командами Git можно по ссылке
 [Ссылка для работы с Git](https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference "Переход по внешней ссылке")
 
+![щенок](picture.jpeg)
